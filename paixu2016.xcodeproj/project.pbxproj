@@ -88,6 +88,10 @@
 		6919057B1D18C8A60030C51F /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					New,
+					"New-1",
+				);
 				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0730;
 				ORGANIZATIONNAME = 20141105049;
